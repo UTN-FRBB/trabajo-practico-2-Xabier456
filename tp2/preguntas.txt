@@ -1,0 +1,2 @@
+1.2= a simple vista se ve que el comensal 0 o 1 se va a comer todas las hamburguesas sin compartir
+2.1=lo que ocurre que cause este problema es el denominado "race condition"
