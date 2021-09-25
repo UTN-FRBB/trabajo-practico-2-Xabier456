@@ -1,0 +1,11 @@
+Hola Bienvenidos al trabajo práctico uno.
+Va a ser muy simple y la idea es ejercitar un poco de git y un poco de Linux.
+Gran parte de la solución a este primer práctico está en las transparencias de clase.
+
+Para este trabajo práctico, vamos a bajar el código de procesos.c , lo vamos a compilar, lo vamos a ejecutar , y finalmente vamos a mirar utilizando el comando "ps" de linux qué proceso se están ejecutando.
+
+1 - bajar el código de git
+2 - compilar el fuente procesos.c
+3 - ejecutarlo e inmediatamente hacer un ps para ver los procesos que se están ejecutando
+4 - hacer una captura de pantalla de los resultados
+5 - subir la captura a github.
